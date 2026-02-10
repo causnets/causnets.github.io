@@ -1,4 +1,6 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "Submit Abstract"
     url: "https://forms.gle/byDdevLMbTeeTQN97"
   - title: "Schedule"
