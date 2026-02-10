@@ -4,7 +4,8 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 markdown: kramdown
-show_feed: false
+atom_feed:
+  hide: true
 nav:
   - title: "Submit Abstract"
     url: /submit/
