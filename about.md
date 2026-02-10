@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: single
 title: "CausNetS: About"
 permalink: /about/
 ---
