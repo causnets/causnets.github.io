@@ -1,7 +1,7 @@
 ---
 layout: simple
 title: "CausNetS: About"
-permalink: /schedule/
+permalink: /about/
 ---
 
 Over the past decade, the fields of network science and causal inference have each made significant statistical and algorithmic advances. Understanding node-to-node connections and cause-and-effect relationships are each seen as fundamental to studying complex natural and social systems. There is a natural synergy between these two perspectives: connections between nodes can act as conduits of causal influence, while external interventions can selectively precipitate node-level connections. However, much of this progress has occurred independently. The network science community often studies causal relationships in the context of parametric network spreading processes that generate dynamic network data, whereas the causal inference community typically addresses the non-parametric case of a single snapshot network observation leading to fundamental non-identifiability. The former approach can be more efficient and interpretable, while the latter is potentially more robust to model misspecification. In the spirit of this "bias--variance trade-off," we argue that there are substantial missed opportunities at the intersection of these two approaches --- and indeed, their respective communities --- that could benefit from cross-fertilization of methods, problems, and perspectives. 
