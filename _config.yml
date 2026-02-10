@@ -4,3 +4,4 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 markdown: kramdown
+show_feed: false
