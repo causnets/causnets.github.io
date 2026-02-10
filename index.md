@@ -5,7 +5,7 @@ excerpt: "A NetSci 2026 Satellite"
 header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.4
-  caption: "July 15, 2026 · London, UK"
+  caption: "June 1, 2026 · Boston, MA, USA"
 actions:
   - label: "Home"
     url: /
