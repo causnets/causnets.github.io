@@ -7,17 +7,3 @@ plugins:
 markdown: kramdown
 atom_feed:
   hide: true
-header:
-  nav:
-    - title: "Submit Abstract"
-      url: /submit/
-    - title: "Schedule"
-      url: /schedule/
-    - title: "Invited Speakers"
-      url: /speakers/
-    - title: "Contact"
-      url: "mailto:"
-    - title: "Register for NetSci"
-      url: "https://www.netsci2026.com/registration"
-    - title: "About NetSci"
-      url: "https://www.netsci2026.com"
