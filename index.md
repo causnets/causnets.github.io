@@ -47,4 +47,4 @@ Extended abstracts must be submitted via [this Google form](https://forms.gle/by
 - Submission deadline: **March (TBD), 2026**  
 - Notification of acceptance: **March (TBD), 2026**
 - Early-bird registration deadline: **March 20, 2026**
-- Workshop date: **June 1, 2026**
+- Satellite date: **June 1, 2026**
