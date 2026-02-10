@@ -5,17 +5,16 @@ plugins:
   - jekyll-include-cache
 markdown: kramdown
 show_feed: false
-header:
-  nav:
-    - title: "Submit Abstract"
-      url: /submit/
-    - title: "Schedule"
-      url: /schedule/
-    - title: "Invited Speakers"
-      url: /speakers/
-    - title: "Contact"
-      url: "mailto:"
-    - title: "Register for NetSci"
-      url: "https://www.netsci2026.com/registration"
-    - label: "About NetSci"
-      url: "https://www.netsci2026.com"
+nav:
+  - title: "Submit Abstract"
+    url: /submit/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Invited Speakers"
+    url: /speakers/
+  - title: "Contact"
+    url: "mailto:"
+  - title: "Register for NetSci"
+    url: "https://www.netsci2026.com/registration"
+  - label: "About NetSci"
+    url: "https://www.netsci2026.com"
