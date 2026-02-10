@@ -15,21 +15,22 @@ The inaugural CausNetS satellite at NetSci 2026 aims to bring these two fields c
 ## Call for Abstracts
 
 As part of the program we invite extended abstract submissions that are due by **11:59 PM [AOE](https://www.timeanddate.com/time/zones/aoe) on March (TBD), 2026**; see further details [below](#extended-abstract-details). We welcome submissions across theory, statistical methodology, and applied work on real-world networked experiments, on a variety of topics at the intersection of causal inference and network science, including but not limited to:
-*Network interference or SUTVA violations;
-*Causal interventions on network structure;
-*Real-world networked interventions (offline or online);
-*Causal mechanisms of network spillovers;
-*Causal estimation under long-range interference;
-*Network confounding in causal inference;
-*Stochastic or probabilistic modeling for interference;
-*Causal inference under network misspecification;
-*Causal discovery on networks;
-*Transportability or generalizability of network causal effects;
-*Experimental or observational designs for measuring spillovers;
-*Optimal policy choice under interference;
-*Heterogeneous treatment effects on networks;
-*Temporal causal effects or network dynamics;
-*Applications to specific domains --- epidemiology, sociology, econometrics, etc.
+
+- Network interference or SUTVA violations;
+- Causal interventions on network structure;
+- Real-world networked interventions (offline or online);
+- Causal mechanisms of network spillovers;
+- Causal estimation under long-range interference;
+- Network confounding in causal inference;
+- Stochastic or probabilistic modeling for interference;
+- Causal inference under network misspecification;
+- Causal discovery on networks;
+- Transportability or generalizability of network causal effects;
+- Experimental or observational designs for measuring spillovers;
+- Optimal policy choice under interference;
+- Heterogeneous treatment effects on networks;
+- Temporal causal effects or network dynamics;
+- Applications to specific domains --- epidemiology, sociology, econometrics, etc.
 
 We note that there will be no proceedings published as part of this satellite and invite new, previously published, or ongoing work for submission. We especially encourage graduate students and early career researchers to submit an abstract.
 
