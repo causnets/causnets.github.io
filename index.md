@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: splash
 title: "CausNetS: Toward a Causal Network Science"
 excerpt: "A NetSci 2026 Satellite"
 header:
