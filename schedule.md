@@ -4,7 +4,7 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-The programme below is provisional and subject to change.
+The satellite will take place on **June 1, 2026** at **Hyatt Regency Boston / Cambridge** in MA, USA. The programme below is provisional and subject to change.
 
 | Time | Session |
 |------|---------|
