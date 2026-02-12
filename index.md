@@ -48,3 +48,9 @@ Extended abstracts must be submitted via [this Google form](https://forms.gle/by
 - Notification of acceptance: **March (TBD), 2026**
 - Early-bird registration deadline: **March 20, 2026**
 - Satellite date: **June 1, 2026**
+
+## Organizers
+
+- [Sahil Loomba](https://sloomba.github.io/), Chapman–Schmidt AI in Science Fellow, Department of Mathematics, Imperial College London
+- [Dean Eckles](https://www.deaneckles.com/), William F. Pounds Professor of Management, MIT Sloan School of Management
+- [Johan Ugander](https://jugander.github.io/), Associate Professor, Department of Statistics and Data Science, Yale University
