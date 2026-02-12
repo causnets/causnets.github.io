@@ -8,7 +8,6 @@ markdown: kramdown
 atom_feed:
   hide: true
 logo: "/assets/images/causnets_logo.png"
-favicon: "/assets/images/causnets_logo.png"
 sidebar:
   - title: "Important Dates"
     text: "- Submission deadline: **March (TBD), 2026**  
