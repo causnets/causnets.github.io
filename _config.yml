@@ -8,9 +8,3 @@ markdown: kramdown
 atom_feed:
   hide: true
 logo: "/assets/images/causnets_logo.png"
-sidebar:
-  - title: "Important Dates"
-    text: "- Submission deadline: **March (TBD), 2026**  
-    - Notification of acceptance: **March (TBD), 2026**
-    - Early-bird registration deadline: **March 20, 2026**
-    - Satellite date: **June 1, 2026**"
