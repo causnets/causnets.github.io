@@ -8,3 +8,4 @@ markdown: kramdown
 atom_feed:
   hide: true
 logo: "/assets/images/causnets_logo.png"
+favicon: "/assets/images/causnets_logo.png"
