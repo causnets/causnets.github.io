@@ -3,6 +3,12 @@ layout: single
 title: "About"
 permalink: /about/
 sidebar:
+  - title: "Important Dates"
+    text: |
+      - Submission deadline: **March (TBD), 2026**  
+      - Notification of acceptance: **March (TBD), 2026**
+      - Early-bird registration deadline: **March 20, 2026**
+      - Satellite date: **June 1, 2026**  
   - title: "Organizers"
     text: |
       - [Sahil Loomba](https://sloomba.github.io/), Chapman–Schmidt AI in Science Fellow, Department of Mathematics, Imperial College London
