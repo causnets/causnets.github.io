@@ -3,7 +3,7 @@ layout: splash
 title: "CausNetS: Toward a Causal Network Science"
 excerpt: "A NetSci 2026 Satellite"
 header:
-  overlay_image: /assets/images/banner.jpg
+  overlay_image: /assets/images/causnets_banner_crop.png
   overlay_filter: 0.4
   caption: "June 1, 2026 · Boston, MA, USA"
 ---
