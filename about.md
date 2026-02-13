@@ -5,8 +5,8 @@ permalink: /about/
 sidebar:
   - title: "Important Dates"
     text: |
-      - Submission deadline: **March (TBD), 2026**  
-      - Notification of acceptance: **March (TBD), 2026**
+      - Submission deadline: **March 10, 2026** at 11:59 PM [AOE](https://www.timeanddate.com/time/zones/aoe)
+      - Notification of acceptance: **March 13, 2026** 
       - Early-bird registration deadline: **March 20, 2026**
       - Satellite date: **June 1, 2026**  
   - title: "Organizers"
