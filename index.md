@@ -14,7 +14,7 @@ The inaugural CausNetS satellite at NetSci 2026 aims to bring these two fields c
 
 ## Call for Abstracts
 
-As part of the program we invite extended abstract submissions that are due by **11:59 PM [AOE](https://www.timeanddate.com/time/zones/aoe) on March (TBD), 2026**; see further details [below](#extended-abstract-details). We welcome submissions across theory, statistical methodology, and applied work on real-world networked experiments, on a variety of topics at the intersection of causal inference and network science, including but not limited to:
+As part of the program we invite extended abstract submissions that are due by **11:59 PM [AOE](https://www.timeanddate.com/time/zones/aoe) on March 10, 2026**; see further details [below](#extended-abstract-details). We welcome submissions across theory, statistical methodology, and applied work on real-world networked experiments, on a variety of topics at the intersection of causal inference and network science, including but not limited to:
 
 - Network interference or SUTVA violations;
 - Causal interventions on network structure;
