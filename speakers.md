@@ -8,9 +8,13 @@ We have an exciting line-up of 4 invited speakers who will present on a diverse 
 
 ## Christina Lee Yu, Cornell University
 
-### TBD
+### Optimizing Cluster Randomized Designs on Networks with Homophily
+
+Cluster randomized designs have been proposed to mitigate bias arising from network interference. However, if the network exhibits homophily, we show that the standard objectives for constructing clusterings are insufficient. In particular, we give two scenarios in which the mean squared error of estimating the total treatment effect is minimized by clusters that balance between an objective that encourages well separated clusters versus an objective that encourages covariate balance. These two objectives are in tension with each other for networks that exhibit homophily, highlighting the need for new clustering algorithms that carefully balance between these objectives. The results in this talk are from the papers: "Analysis of Two-Stage Rollout Designs with Clustering for Causal Inference under Network Interference" and "Optimal Design under Interference, Homophily, and Robustness Trade-offs".
 
 <img src="/assets/images/causnets_speaker_cleeyu.jpg" alt="Christina Lee Yu" width="220" style="float:right; margin-left:20px; border-radius:10px;">
+
+**[Christina Lee Yu](https://cleeyu.orie.cornell.edu/)** is an Assistant Professor at Cornell University in the School of Operations Research and Information Engineering. She is also an Amazon scholar. Prior to Cornell, she was a postdoc at Microsoft Research New England. She received her PhD and MS in Electrical Engineering and Computer Science from Massachusetts Institute of Technology, and her BS in Computer Science from California Institute of Technology. She is a recipient of the NSF CAREER Award, ACM SIGMETRICS Rising Stars Award, Intel Rising Stars Award, JPMorgan Faculty Research Award, and honorable mention for the 2018 INFORMS Dantzig Dissertation Award. Her work is supported by grants from the National Science Foundation and the Air Force Office of Scientific Research.
 
 <div style="clear: both;"></div>
 
