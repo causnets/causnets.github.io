@@ -3,7 +3,7 @@ main:
     url: /about/
   - title: "Submit Abstract"
     url: "https://forms.gle/byDdevLMbTeeTQN97"
-  - title: "Invited Speakers"
+  - title: "Speakers"
     url: /speakers/
   - title: "Schedule"
     url: /schedule/
