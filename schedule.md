@@ -4,7 +4,7 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-The satellite will take place on **June 1, 2026** at **Hyatt Regency Boston / Cambridge** in MA, USA. The confirmed list of speakers can be found [here](https://causnets.github.io/speakers/). The program below is provisional and subject to change.
+The satellite will take place on **June 1, 2026** at **Hyatt Regency Boston / Cambridge** in MA, USA. The confirmed list of speakers and detailed abstracts can be found [here](https://causnets.github.io/speakers/). The program below is provisional and subject to change.
 
 | Time | Title | Speaker | Type |
 |------|---------|---------|---------|
