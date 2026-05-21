@@ -4,6 +4,8 @@ title: "Speakers"
 permalink: /speakers/
 ---
 
+We have curated an exciting program of [invited](https://causnets.github.io/speakers/#invited-talks), [contributed](https://causnets.github.io/speakers/#contributed-talks), and [lightning](https://causnets.github.io/speakers/#lightning-talks) talks for the satellite.
+
 ## Invited Talks
 
 ### Christina Lee Yu, Cornell University
