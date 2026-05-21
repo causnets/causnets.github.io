@@ -8,7 +8,7 @@ The satellite will take place on **June 1, 2026** in the **"Harvard Square A"** 
 
 | Time | Title | Speaker | Type |
 |------|---------|---------|---------|
-| 08:30 - 08:45 | Poster setup in Amesbury Ballroom |
+| 08:30 – 08:45 | Poster setup in Amesbury Ballroom |
 | 08:45 – 09:00 | Introduction and Welcome to CausNetS|
 | 09:00 – 09:30 | [Causal Clustering: Design of Cluster Experiments under Network Interference](https://causnets.github.io/speakers/#causal-clustering-design-of-cluster-experiments-under-network-interference) | Davide Viviano | Invited |
 | 09:30 – 10:00 | [Optimizing Cluster Randomized Designs on Networks with Homophily](https://causnets.github.io/speakers/#optimizing-cluster-randomized-designs-on-networks-with-homophily) | Christina Lee Yu | Invited |
